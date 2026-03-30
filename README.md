@@ -10,4 +10,4 @@ Logs the Data: It takes that Video Name and the AI Label and writes them side-by
 
 Cleans Up (Archiving): As soon as the video's information is safely written in the list, the system moves the actual video file into an "Archive" folder. This prevents the folder from getting cluttered and ensures the same video isn't accidentally processed twice.
 
-![Alt text](path/to/image.png)
+![Alt text](image.png)
